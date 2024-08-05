@@ -346,9 +346,19 @@
       "feeling": "great"
     },
     {
+      "question": "My friend is upset",
+      "answer": "Oh no! Try to cheer them up with their favorite food",
+      "feeling": "bad"
+    },
+    {
       "question": "thanks",
       "answer": "You're welcome!",
       "feeling": "great"
+    },
+    {
+      "question": "How do I feel better?",
+      "answer": "Try eating some of your favorite foods, or watch a favorite show!",
+      "feeling": "good"
     },
     {
       "question": "I'm super happy",
