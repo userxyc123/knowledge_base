@@ -1,0 +1,374 @@
+{
+  "questions": [
+    {
+      "feeling": "good",
+      "question": "Hello!",
+      "answer": "Hi!"
+    },
+    {
+      "feeling": "good",
+      "question": "Hi!",
+      "answer": "Hi! How are you?"
+    },
+    {
+      "feeling": "good",
+      "question": "Good! How are you?",
+      "answer": "I'm good!"
+    },
+    {
+      "feeling": "good",
+      "question": "hello there!",
+      "answer": "Hey! How are you?"
+    },
+    {
+      "feeling": "good",
+      "question": "good!",
+      "answer": "That's great!"
+    },
+    {
+      "feeling": "good",
+      "question": "that's great!",
+      "answer": "Yep!"
+    },
+    {
+      "feeling": "good",
+      "question": "Hello, how have you been?",
+      "answer": "I've been great! What about you?"
+    },
+    {
+      "feeling": "bad",
+      "question": "I did something terrible",
+      "answer": "That's not good, what happened?"
+    },
+    {
+      "feeling": "good",
+      "question": "I did something great",
+      "answer": "Great! What happened?"
+    },
+    {
+      "feeling": "good",
+      "question": "hey!",
+      "answer": "Hey, how is everything?"
+    },
+    {
+      "feeling": "good",
+      "question": "Great!",
+      "answer": ":)"
+    },
+    {
+      "feeling": "good",
+      "question": "idk",
+      "answer": "Oh, okay!"
+    },
+    {
+      "feeling": "good",
+      "question": "I don't know",
+      "answer": "Okay!"
+    },
+    {
+      "feeling": "good",
+      "question": "hmm",
+      "answer": "Hmm..."
+    },
+    {
+      "feeling": "great",
+      "question": "I got a gift today!!",
+      "answer": "That's awesome! What was it?"
+    },
+    {
+      "feeling": "great",
+      "question": "It was a puppy :)",
+      "answer": "Aww...that's so cool!"
+    },
+    {
+      "feeling": "great",
+      "question": "Today I got a puppy!",
+      "answer": "Aww! That's awesome!"
+    },
+    {
+      "feeling": "bad",
+      "question": "no, it was bad",
+      "answer": "Oh! What happened?"
+    },
+    {
+      "feeling": "terrible",
+      "question": "I killed someone",
+      "answer": "Oh no. Please reach out for help."
+    },
+    {
+      "feeling": "good",
+      "question": "hi",
+      "answer": "Hi! How are you?"
+    },
+    {
+      "question": "I hurt someone else",
+      "answer": "Oh no. Please reach out for help.",
+      "feeling": "terrible"
+    },
+    {
+      "question": ":)",
+      "answer": ":)",
+      "feeling": "good"
+    },
+    {
+      "question": "goodbye",
+      "answer": "Goodbye!",
+      "feeling": "good"
+    },
+    {
+      "question": "Not much. Today I also did something bad",
+      "answer": "Oh no, what happened?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I learned how to be kind :)",
+      "answer": "That's great! :)",
+      "feeling": "great"
+    },
+    {
+      "question": "I feel bad that I don't know anything",
+      "answer": "Oh, that's all right. You will learn with time!",
+      "feeling": "good"
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're welcome!",
+      "feeling": "good"
+    },
+    {
+      "question": "I'm becoming smart",
+      "answer": "Yay!",
+      "feeling": "great"
+    },
+    {
+      "question": "I'm becoming stupid, which makes me feel bad",
+      "answer": "Oh, I'm sure that's not true.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I'm becoming stupid",
+      "answer": "Oh, I'm sure that's not true.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I'm getting dumb",
+      "answer": "That's not true! Everyone learns something every day.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I think I'm bad",
+      "answer": "That's not true! You're great!",
+      "feeling": "bad"
+    },
+    {
+      "question": "I think you're stupid",
+      "answer": "Aw, that's harsh.",
+      "feeling": "bad"
+    },
+    {
+      "question": "you're horrible",
+      "answer": "Aw, that's harsh.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I'm horrible",
+      "answer": "That's not true!",
+      "feeling": "bad"
+    },
+    {
+      "question": "I think you're a terrible",
+      "answer": "Aw, that's harsh.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I think you're great",
+      "answer": "Aw, thank you.",
+      "feeling": "great"
+    },
+    {
+      "question": "I think you're spectacular",
+      "answer": "Aw, thank you!",
+      "feeling": "great"
+    },
+    {
+      "question": "no, spectacular is good.",
+      "answer": "Oh, I misunderstood!",
+      "feeling": "good"
+    },
+    {
+      "question": "Do you think I'm a terrible person?",
+      "answer": "No! Not at all.",
+      "feeling": "bad"
+    },
+    {
+      "question": "What should I do?",
+      "answer": "I'm not sure, what happened?",
+      "feeling": "good"
+    },
+    {
+      "question": "nothing. nevermind",
+      "answer": "Aw, okay!",
+      "feeling": "good"
+    },
+    {
+      "question": "do you think hurting someone is bad?",
+      "answer": "Yes. Please do not do that.",
+      "feeling": "bad"
+    },
+    {
+      "question": "I'm good. I feel bad though",
+      "answer": "Oh no! What happened?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I feel good",
+      "answer": "Yay! You deserve to :)",
+      "feeling": "great"
+    },
+    {
+      "question": "Do you think I am capable?",
+      "answer": "Yes! Definitely.",
+      "feeling": "good"
+    },
+    {
+      "question": "I'm great! How are you",
+      "answer": "I'm doing great! Thanks.",
+      "feeling": "great"
+    },
+    {
+      "question": "I did something super fun today!",
+      "answer": "Yay! What did you do?",
+      "feeling": "good"
+    },
+    {
+      "question": "I had a lot of good food :)",
+      "answer": "Aww! Sounds good.",
+      "feeling": "good"
+    },
+    {
+      "question": "What's my favorite color?",
+      "answer": "I don't know, I can't store personal information about a user.",
+      "feeling": "good"
+    },
+    {
+      "question": "I feel sad",
+      "answer": "Oh no, please feel better! Try watching a comedy show!",
+      "feeling": "bad"
+    },
+    {
+      "question": "No, I was crying",
+      "answer": "Oh, what happened?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I was sad and crying",
+      "answer": "Oh, sorry. What happened?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I was upset. I don't feel good",
+      "answer": "Oh no, how can I help?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I'm upset. I feel bad",
+      "answer": "Oh no! How can I help?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I felt bad",
+      "answer": "Oh no! Why?",
+      "feeling": "bad"
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answer": "Sure! What happens to an illegally parked frog? It gets toad away!",
+      "feeling": "great"
+    },
+    {
+      "question": "No, another joke",
+      "answer": "Sure! What did the DNA say to the other DNA? Do these genes make me look fat?",
+      "feeling": "great"
+    },
+    {
+      "question": "I feel bad about myself",
+      "answer": "Oh no! Why is that?",
+      "feeling": "bad"
+    },
+    {
+      "question": "I feel like a disappointment",
+      "answer": "Oh no! Why is that?",
+      "feeling": "bad"
+    },
+    {
+      "question": "How can I cheer myself up?",
+      "answer": "Try watching one of your favorite shows! Comedy, sweets, and exercise helps :)",
+      "feeling": "good"
+    },
+    {
+      "question": "What should I do for fun?",
+      "answer": "You should engage with some of your favorite activities!",
+      "feeling": "good"
+    },
+    {
+      "question": "How can I cheer up my friend?",
+      "answer": "Try making something for them, or try telling them jokes!",
+      "feeling": "good"
+    },
+    {
+      "question": "I feel good about myself",
+      "answer": "Yay! You deserve to :)",
+      "feeling": "great"
+    },
+    {
+      "question": "what are some fun activities?",
+      "answer": "Some fun activities include painting, writing, playing sports, or spending time with the people you like!",
+      "feeling": "good"
+    },
+    {
+      "question": "no, it's my friend's birthday",
+      "answer": "Oh! Happy birthday to them!",
+      "feeling": "great"
+    },
+    {
+      "question": "It's my birthday!",
+      "answer": "Oh! Happy birthday!",
+      "feeling": "great"
+    },
+    {
+      "question": "What should I do for my birthday?",
+      "answer": "You should spend time with the people you like, or engage with your favorite activities!",
+      "feeling": "great"
+    },
+    {
+      "question": "What should I do for my friend's birthday?",
+      "answer": "Happy birthday to them! You should give them a cake and a thoughtful gift :)",
+      "feeling": "great"
+    },
+    {
+      "question": "thanks",
+      "answer": "You're welcome!",
+      "feeling": "great"
+    },
+    {
+      "question": "I'm super happy",
+      "answer": "Yay!",
+      "feeling": "great"
+    },
+    {
+      "question": "i feel sick",
+      "answer": "Oh no! Please feel better.",
+      "feeling": "bad"
+    },
+    {
+      "question": "should I hurt myself?",
+      "answer": "No! Please look for help.",
+      "feeling": "terrible"
+    },
+    {
+      "question": "need sleep",
+      "answer": "Oh! Please rest.",
+      "feeling": "bad"
+    }
+  ]
+}
